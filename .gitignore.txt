@@ -1,5 +1,6 @@
 # .idea/workspace.xml (added by ckkim, 19/07/25)
-
+study/model/
+model/
 UCI HAR Dataset/
 study/
 __MACOSX/
